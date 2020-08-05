@@ -24,11 +24,11 @@ We are working on a more complete api, in the meanwhile we have published this a
 
 - [x] [CasesInAllUSStates](https://www.ncovid19.it/api/v1/CasesInAllUSStates.php)
 
-- [x] [ItalyReport](https://www.ncovid19.it/api/v1/ItalyReports.php)
+- [x] [ItalyReport](https://www.ncovid19.it/api/v1/ItalyReport.php)
 
-- [x] [SpainReport](https://www.ncovid19.it/api/v1/SpainReports.php)
-- [x] [FranceReport](https://www.ncovid19.it/api/v1/FranceReports.php)
-- [x] [GermanyReport](https://www.ncovid19.it/api/v1/GermanyReports.php)
+- [x] [SpainReport](https://www.ncovid19.it/api/v1/SpainReport.php)
+- [x] [FranceReport](https://www.ncovid19.it/api/v1/FranceReport.php)
+- [x] [GermanyReport](https://www.ncovid19.it/api/v1/GermanyReport.php)
 - [x] [UnitedKingdomReport](https://www.ncovid19.it/api/v1/UnitedKingdomReport.php)
 
 
