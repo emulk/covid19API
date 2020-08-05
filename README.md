@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://www.ncovid19.it/covidLogo.png" width="50%" alt="COVID19 API" />
+  <img src="https://www.ncovid19.it/covidLogo.png" width="30%" alt="COVID19 API" />
 </p>
 
 # covid19API
@@ -10,6 +10,10 @@
 
 
 <p align="center">This API provides updated real-time data on coronavirus cases from the worldometers page and other important websites, provided by the most reputable organizations and statistical offices in the world.</p>
+
+<p align="center">
+We are working on a more complete api, in the meanwhile we have published this api to help you having realtime data
+</p>
 
 
 
