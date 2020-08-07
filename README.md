@@ -24,6 +24,16 @@ We are working on a more complete api, in the meanwhile we have published this a
 
 - [x] [CasesInAllUSStates](https://www.ncovid19.it/api/v1/CasesInAllUSStates.php)
 
+- [x] [NorthAmericaReports] (https://www.ncovid19.it/api/v1/NorthAmericaReports.php)
+
+- [x] [SouthAmericaReports] (https://www.ncovid19.it/api/v1/SouthAmericaReports.php)
+   
+- [x] [EuropeReports] (https://www.ncovid19.it/api/v1/EuropeReports.php)
+   
+- [x] [OceaniaReports] (https://www.ncovid19.it/api/v1/OceaniaReports.php)
+    
+- [x] [AfricaReports] (https://www.ncovid19.it/api/v1/AfricaReports.php)
+
 - [x] [ItalyReport](https://www.ncovid19.it/api/v1/ItalyReport.php)
 
 - [x] [SpainReport](https://www.ncovid19.it/api/v1/SpainReport.php)
