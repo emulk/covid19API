@@ -33,9 +33,9 @@ We are working on a more complete api, in the meanwhile we have published this a
 
 ## Support
 
-- [One-time donation via PayPal.](https://paypal.me/oshehaj?locale.x=en_US)
+- [One-time donation via PayPal](https://paypal.me/oshehaj?locale.x=en_US)
 
-<a href="https://ko-fi.com/orgestshehaj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+<a href="https://ko-fi.com/orgestshehaj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 215px !important;" ></a>
 
 These are projects that take a lot of effort and time to maintain. So with your help I will be more motivated to continue maintaining the COVID19 project.
 
