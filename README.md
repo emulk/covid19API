@@ -6,7 +6,7 @@
 # covid19API
 
 
-- [x] [COVID19 Frontend](https://ncovid19.it)
+[COVID19 Frontend](https://ncovid19.it)
 
 
 <p align="center">This API provides updated real-time data on coronavirus cases from the worldometers page and other important websites, provided by the most reputable organizations and statistical offices in the world.</p>
@@ -30,5 +30,14 @@ We are working on a more complete api, in the meanwhile we have published this a
 - [x] [FranceReport](https://www.ncovid19.it/api/v1/FranceReport.php)
 - [x] [GermanyReport](https://www.ncovid19.it/api/v1/GermanyReport.php)
 - [x] [UnitedKingdomReport](https://www.ncovid19.it/api/v1/UnitedKingdomReport.php)
+
+
+
+## Requests
+Please report feature requests to the email: info@ncovid19.it
+
+## Contacts
+
+Write me on info@ncovid19.it , for information or collaboration.
 
 
