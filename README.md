@@ -12,13 +12,27 @@
 <p align="center">This API provides updated real-time data on coronavirus cases from the worldometers page and other important websites, provided by the most reputable organizations and statistical offices in the world.</p>
 
 <p align="center">
-We are working on a more complete api, in the meanwhile we have published this api to help you having realtime data
+Now you can find a new endpoint with all the Covid-19 Vaccine data, and report.
 </p>
 
+
+<p align="center">
+Follow covid19 vaccin tracker for all the nations.
+
+The Covid19 Vaccine:
+
+* Pfizer/BioNTech
+* Moderna
+* Sputnik V
+* CNBG, Sinovac
+* Sinopharm
+</p>
 
 
 ## API URL
 - [x] [COVID19 API Endpoints](https://www.ncovid19.it/api/v1/index.html)
+
+- [x] [COVID19 Vaccine Reports](https://www.ncovid19.it/api/v1/Vaccine.php)
 
 - [x] [AllReports](https://www.ncovid19.it/api/v1/AllReports.php)
 
